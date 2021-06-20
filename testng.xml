@@ -5,9 +5,5 @@
             <package name="scenario1.*" />
             <package name="scenario2.*" />
         </packages>
-
-
-        <classes>
-        </classes>
     </test>
 </suite>
