@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smallcase Automation" verbose="2" data-provider-thread-count="1">
+    <test name="Smallcase-Automation-Assignment" group-by-instances="true">
+        <packages>
+            <package name="scenario1.*" />
+            <package name="scenario2.*" />
+        </packages>
+
+
+        <classes>
+        </classes>
+    </test>
+</suite>
